@@ -1,7 +1,7 @@
 TARGET = mhwkb
 LIBS = -lm
 CC = gcc
-CFLAGS = -g -Wall
+CFLAGS = -Wall
 
 .PHONY: default all clean
 
